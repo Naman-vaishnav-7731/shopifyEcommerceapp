@@ -1,0 +1,8 @@
+.Polaris-Label__Text {
+    display: block;
+    flex: 1 1 auto;
+    color: currentColor;
+    -webkit-tap-highlight-color: transparent;
+    font-size: 16px;
+    text-transform: capitalize;
+}
